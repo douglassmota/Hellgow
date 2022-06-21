@@ -4,7 +4,7 @@
 </div><br/>
 
 Profissional em transição de carreira. 
-Apaixonado por novas tecnologias, autodidata, comunicativo, focado, facilidade de trabalhar equipe e perfil hands-on. Atualmente cursando Análise e Desenvolvimento de Sistemas e em busca de uma oportunidade na área de tecnologia. Altamente comprometido com prazos e qualidade da entrega.
+Apaixonado por novas tecnologias, autodidata, comunicativo, focado, facilidade de trabalhar em equipe e perfil hands-on. Atualmente cursando Análise e Desenvolvimento de Sistemas e em busca de uma oportunidade na área de tecnologia. Altamente comprometido com prazos e qualidade da entrega.
 </div><br/>
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Hellgow&show_icons=true&theme=dracula)
