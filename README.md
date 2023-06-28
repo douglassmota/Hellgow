@@ -1,10 +1,11 @@
-### Douglas Mota 🤖🖥️
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
+
+Douglas Mota 🤖🖥️
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasmota-analistadesistemas/)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <div><br> 
+ 
 Profissional em transição de carreira. 
 Apaixonado por novas tecnologias, autodidata, comunicativo, focado, facilidade de trabalhar em equipe e perfil hands-on. Atualmente cursando Análise e Desenvolvimento de Sistemas e em busca de uma oportunidade na área de tecnologia. Altamente comprometido com prazos e qualidade da entrega.
 </div><br/>
