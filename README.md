@@ -10,11 +10,11 @@ Apaixonado por novas tecnologias, autodidata, comunicativo, focado, facilidade d
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Hellgow&show_icons=true&theme=dracula)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellgow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellgow&layout=donut)](https://github.com/Hellgow/github-readme-stats)
 
 
 ### Tecnologias de aprendizagem.
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/Python-CC342D?style=for-the-badge&logo=python&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/C-38B2AC?style=for-the-badge&logo=c&logoColor=white" />
 
