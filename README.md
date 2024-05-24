@@ -2,18 +2,33 @@
 
 ### Douglas Mota 🤖🖥️
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasmota-analistadesistemas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-mota-analistajr/)
 
 <div><br> 
- 
-Profissional em transição de carreira. 
-Apaixonado por novas tecnologias, autodidata, comunicativo, focado, facilidade de trabalhar em equipe e perfil hands-on. Atualmente cursando Análise e Desenvolvimento de Sistemas e em busca de uma oportunidade na área de tecnologia. Altamente comprometido com prazos e qualidade da entrega.
-</div><br/>
 
+### Sobre mim
+<p>Sou Analista de Sistemas Júnior com formação em Análise e Desenvolvimento de Sistemas pela Universidade Anhanguera. Tenho paixão por tecnologia, programação e aprendizado contínuo. Atualmente, trabalho na Viacon, onde colaboro em projetos que envolvem análise de dados e desenvolvimento de software.</p>
+
+### Habilidades Técnicas
+<ul>
+    <li>Programação em Java</li>
+    <li>Programação em C</li>
+    <li>Programação Orientada a Objetos (POO)</li>
+    <li>MySQL</li>
+    <li>Microsoft Power BI</li>
+    <li>Metodologias Ágeis</li>
+    <li>Análise de Requisitos</li>
+</ul>
+
+### Projetos
+<p>Aqui você encontrará alguns dos meus projetos pessoais e contribuições para a comunidade. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.</p>
+ 
+</div><br/>
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Hellgow&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellgow&layout=donut)](https://github.com/Hellgow/github-readme-stats)
+
 
 
 ### 🚀 Minhas Skills:
