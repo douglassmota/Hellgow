@@ -7,7 +7,16 @@
 <div><br> 
 
 ### Sobre mim
-<p>Sou Analista de Sistemas Júnior com formação em Análise e Desenvolvimento de Sistemas pela Universidade Anhanguera. Tenho paixão por tecnologia, programação e aprendizado contínuo. Atualmente, trabalho na Viacon, onde colaboro em projetos que envolvem análise de dados e desenvolvimento de software.</p>
+<p>Graduado em análise e desenvolvimento de sistemas e atuando em múltiplas frentes em empresa de TI de médio
+porte, tais como, suporte técnico N1/N2, liderança técnica de equipe de desenvolvedores (N1) para resolução de
+incidentes. Mapeamento de requisitos funcionais com o cliente e elaboração de EF (especificação funciona) para o time
+de desenvolvimento. Forte viés analítico e perfil para criação de dashboards que auxiliam na tomada de decisão através
+de tratamento de dados. Instrutor dos sistemas corporativos, promovendo a transferência de conhecimento, atuando
+ativamente na implementação de sistemas em diferentes unidades. Bons conhecimentos de lógica de programação,
+focado nas linguagens “C”, “ Java” e orientação a objetos, banco de dados “MySQL”, análise de requisitos e
+frameworks ágeis.
+Possuo boa comunicação, bom relacionamento para trabalho em equipe, liderança, atuação em resolução de
+problemas e atenção aos detalhes.</p>
 
 ### Habilidades Técnicas
 <ul>
@@ -25,9 +34,9 @@
  
 </div><br/>
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Hellgow&show_icons=true&theme=tokyonight)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassmota&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellgow&layout=donut)](https://github.com/Hellgow/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglassmota&layout=donut)](https://github.com/Hellgow/github-readme-stats)
 
 
 
